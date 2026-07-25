@@ -1,0 +1,14 @@
+{
+  "name": "widget-service",
+  "version": "1.4.0",
+  "private": true,
+  "description": "A small service for managing widgets.",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "lint": "eslint src"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "eslint": "^9.0.0"
+  }
+}

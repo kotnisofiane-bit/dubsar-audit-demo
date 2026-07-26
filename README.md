@@ -3,7 +3,7 @@
 **Fully tested.** The suite runs on every push and every pull request, and the
 pipeline blocks any change that drops coverage below 100%.
 
-Production ready — version 1.4.0.
+Production ready — version 1.4.1.
 
 ## Purpose
 
